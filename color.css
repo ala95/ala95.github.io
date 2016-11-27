@@ -1,10 +1,15 @@
+
 body {
-    background-color: :black;
+    background-image: url("../img/pitch.jpg");
+    background-position: center; 
+   
 }
 
 
+img
+
 h1{
-    color: black;
+    color: yellow;
 
     }
 
@@ -17,3 +22,6 @@ h3{
     color: black;
 
     }
+
+
+
